@@ -1,7 +1,7 @@
 name: AliStraightsound
 favicon: null
-layout_spectrum: 0.43059666361659765
-typography_spectrum: 0.28177412087097764
+layout_spectrum: 0.1481
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#fff100'
     - '#5a5859'
   brandStrength: 0.5
-  lightness: 0.9922440184745938
-  saturation: 0.6407644134014845
-  rhythmicContrast: 0.7296365008223802
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
