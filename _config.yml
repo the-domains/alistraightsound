@@ -21,7 +21,7 @@ color:
     - '#25414d'
     - '#90a55a'
     - '#5c6634'
-  brandStrength: null
+  brandStrength: 0.875
   lightness: null
   saturation: null
   rhythmicContrast: null
