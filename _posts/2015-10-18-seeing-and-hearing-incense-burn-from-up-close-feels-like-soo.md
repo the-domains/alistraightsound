@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Casey Chan
-    url: 'http://kinja.com/caseychan'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://sploid.gizmodo.com'
-  name: Sploid
-  favicon: 'https://i.kinja-img.com/gawker-media/image/upload/s--yCML1MxC--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/fdmagj52rhclnn6dfoig.png'
-  domain: sploid.gizmodo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://sploid.gizmodo.com/seeing-and-hearing-incense-burn-from-up-close-feels-lik-1736806001'
+inLanguage: en
+starred: false
 keywords:
   - smell
   - incense
@@ -21,17 +17,23 @@ keywords:
   - pitter
   - senses
 description: "It's a little brain jiggling to watch this macro footage of incense burning because you're seeing fire disintegrate the burning light but hear a pitter patter that resembles rain fall. And what the most backwards thing is that the strongest sense of incense-the smell, duh-can't be felt."
-inLanguage: en
+datePublished: '2015-10-18T03:03:05.475Z'
+dateModified: '2015-10-18T03:02:59.109Z'
+author:
+  - name: Casey Chan
+    url: 'http://kinja.com/caseychan'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://sploid.gizmodo.com/seeing-and-hearing-incense-burn-from-up-close-feels-lik-1736806001'
 title: Seeing and hearing incense burn from up close feels like soothing rain
-datePublished: '2015-10-18T03:02:19.119Z'
-dateModified: '2015-10-18T03:01:58.792Z'
 sourcePath: _posts/2015-10-18-seeing-and-hearing-incense-burn-from-up-close-feels-like-soo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Sploid
+  domain: sploid.gizmodo.com
+  url: 'http://sploid.gizmodo.com'
+  favicon: 'https://i.kinja-img.com/gawker-media/image/upload/s--yCML1MxC--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/fdmagj52rhclnn6dfoig.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
