@@ -1,4 +1,4 @@
-name: null
+name: AliStraightsound
 favicon: null
 layout_spectrum: 0.43059666361659765
 typography_spectrum: 0.28177412087097764
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.28282115678302944
+  brandColors:
+    - '#ffffff'
+    - '#231f20'
+    - '#918811'
+    - '#fff100'
+    - '#5a5859'
+  brandStrength: 0.5
   lightness: 0.9922440184745938
   saturation: 0.6407644134014845
   rhythmicContrast: 0.7296365008223802
