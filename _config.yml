@@ -1,40 +1,40 @@
-favicon: null
-name: AliStraightsound
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: null
+  saturation: 0.7168459
   brandStrength: 1
-  lightness: null
+  lightness: 0.827957
   brandColors:
     - '#2B2B2B'
     - '#ECE3D2'
     - '#97ACBD'
     - '#787969'
     - '#6593B5'
-  rhythmicContrast: null
-typography_spectrum: 0.5663083
-layout_spectrum: 0.5053763
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  rhythmicContrast: 0.6971326
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: AliStraightsound
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5663083
+layout_spectrum: 0.5053763
